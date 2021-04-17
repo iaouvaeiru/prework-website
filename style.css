@@ -1,3 +1,18 @@
+html {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom, rgb(204, 255, 204, .2), rgb(204, 255, 204, 1));
+    resize: both;
+    overflow: scroll;
+}
 body {
-    background: lightblue;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
 }
