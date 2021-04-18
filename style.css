@@ -24,3 +24,11 @@ h1 {
     width: 10%;
     height: auto;
 }
+#ground {
+    border: 5px solid darkolivegreen;
+    height: 0px;
+    width: auto;
+    border-top-color: darkolivegreen;
+    display: block;
+    margin: auto;
+}
